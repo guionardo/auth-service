@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Auth Service - golang version - 0")
+	fmt.Println("Auth Service - golang version")
 }
