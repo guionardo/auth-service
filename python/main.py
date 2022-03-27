@@ -1,1 +1,1 @@
-print("Auth Service")
+print("Auth Service - python version")
