@@ -12,7 +12,7 @@ Auth and authorization generic microsservice
 ### User data feed upsert
 
 ```curl
-curl -X POST {HOST}/user -d '{"username":"","userid":"","password_hash":"","payload":{}}' -H 'Content-Type: application/json' -H 'FEED-API-KEY: {feed API key}'
+curl -X POST {HOST}/user -d '{"userid":"","password_hash":"","payload":{}}' -H 'Content-Type: application/json' -H 'FEED-API-KEY: {feed API key}'
 
 202 ACCEPTED
 401 UNAUTHORIZED
