@@ -1,5 +1,5 @@
 # auth-service
-Auth and authorization generic microsservice
+Auth and authorization generic microservice
 
 [![CodeQL Golang](https://github.com/guionardo/auth-service/actions/workflows/codeql-analysis-golang.yml/badge.svg)](https://github.com/guionardo/auth-service/actions/workflows/codeql-analysis-golang.yml)
 [![CodeQL Python](https://github.com/guionardo/auth-service/actions/workflows/codeql-analysis-python.yml/badge.svg)](https://github.com/guionardo/auth-service/actions/workflows/codeql-analysis-python.yml)
